@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "smartshulker",
+  "version": "${version}",
+  "name": "Smart Shulker Box",
+  "description": "A configurable Shulker Box that emits red or green particles based on its fill state.",
+  "authors": [],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main":   ["net.smartshulker.mod.SmartShulkerMod"],
+    "client": ["net.smartshulker.mod.SmartShulkerClient"]
+  },
+  "mixins": ["smartshulker.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "fabric-api":   "*",
+    "minecraft":    "~1.21.11",
+    "java":         ">=21"
+  }
+}

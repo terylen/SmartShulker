@@ -1,0 +1,7 @@
+{
+  "block.smartshulker.smart_shulker_box": "Smart Shulker Box",
+  "item.smartshulker.smart_shulker_box.tooltip.line1": "Place items in the green goal slots.",
+  "item.smartshulker.smart_shulker_box.tooltip.line2": "Green particles = goal met. Red = not yet.",
+  "gui.smartshulker.goal_label": "Goal Items:",
+  "container.smartshulker.smart_shulker_box": "Smart Shulker Box"
+}

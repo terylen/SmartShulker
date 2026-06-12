@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DDD",
+    "DSD",
+    "DDD"
+  ],
+  "key": {
+    "D": { "item": "minecraft:diamond" },
+    "S": { "item": "minecraft:shulker_box" }
+  },
+  "result": {
+    "id": "smartshulker:smart_shulker_box",
+    "count": 1
+  }
+}
